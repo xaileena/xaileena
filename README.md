@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><b>Hi , I'm Aileena </b><img src="https://pa1.narvii.com/6664/36d1e3b36375ca7ade7d24ef9e0f2f4efa0f15ab_hq.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Leena </b><img src="https://pa1.narvii.com/6664/36d1e3b36375ca7ade7d24ef9e0f2f4efa0f15ab_hq.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Girlboss&hearts;++;Loves+Collaborative+Projects+<3;Computer+Science+Student;Interested+in+AI+and+Game+Dev"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student&hearts;++"></a>
   </p>
   
   ## <picture><img src = "https://repository-images.githubusercontent.com/362366029/55d65928-49c3-474a-97fb-be448443aa6c" width = 50px></picture> **About me**
   
   <br>
 
-- Second year student at McGill University pursuing a BSc. Computer Science
+- Sophomore at McGill University pursuing a BSc. Computer Science
 - I am interested in game development and artificial intelligence
-- Currently working on more solo and collaborative projects
+- Nice to meet you
 
 <br><br>
 
