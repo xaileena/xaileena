@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   <br>
 
-- Sophomore at McGill University pursuing a BSc. Computer Science
+- Sophomore at McGill University pursuing a BSc. in Computer Science
 - I am interested in game development and artificial intelligence
 - Nice to meet you
 
