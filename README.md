@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   <br>
 
-- Junior at McGill University pursuing a BSc. in Computer Science
+- Pursuing a Bachelor's at McGill University
 
 <br><br>
 
